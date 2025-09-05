@@ -10,10 +10,10 @@ Here is some information about myself!
 >4. I love chess.
 >5. I love music.
 
-If you want to learn more about some of my beliefs or topics I am currently studying, [click here](https://github.com/gboyette929929/Papers/blob/main/PHI2500%20Final%20Research%20Essay.pdf "The Devouring Lion: Psychedelics or Pride?") to read an essay regarding Christian ethics of substance use!
-I hope this was useful information in getting to know the depths of my soul!
+If you want to learn more about some of my beliefs or topics I am currently studying, take a gander at the content below!
+I hope this information is useful in getting to know the depths of my soul!
 
-## Other Unpublished Publications! ##
+## Miscellaneous Unpublished Publications! ##
 #### Theology/ Biblical Studies: ####
 - [Salvation of The Unevangelized: A Molinist Approach](https://github.com/gboyette929929/Papers/blob/main/PHI4600%20Final%20Essay.docx)
 - [Old Testament Narrative: Creation to Exile](https://github.com/gboyette929929/Papers/blob/main/OTS%20Creation%20to%20Exile%20Retelling.pdf)
