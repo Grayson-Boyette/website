@@ -10,16 +10,26 @@ Here is some information about myself!
 >4. I love chess.
 >5. I love music.
 
-If you want to learn more about some of my beliefs or topics I am currently studying, [click here](https://dochub.com/guest-lw5xbdvmzm08g5e-iknv5pfjkemmfel3c9/xP5LzojKaWv0gY0w7ZDlO3/phi2500-final-research-essay-pdf?gt=EDWGBskx25ZAs-iiuLRu "The Devouring Lion: Psychedelics or Pride?") to read an essay regarding Christian ethics of substance use!
+If you want to learn more about some of my beliefs or topics I am currently studying, [click here](https://github.com/gboyette929929/Papers/blob/main/PHI2500%20Final%20Research%20Essay.pdf "The Devouring Lion: Psychedelics or Pride?") to read an essay regarding Christian ethics of substance use!
 I hope this was useful information in getting to know the depths of my soul!
 
 ## Other Unpublished Publications! ##
-- [Salvation of The Unevangelized](https://dochub.com/graysonboyette929/gDqeQZ6VzZNMydzV0jLO4Y/phi4600-final-essay-docx)
-- [Correspondance Theory of Truth](https://dochub.com/graysonboyette929/oGZeMNnwXgDjMYGVQvbrYd/phi3550-position-paper-truth-docx)
-- [Belief in God as Basic: Modern Foundationalism](https://dochub.com/graysonboyette929/2GQ1NXoKy5pJ76JKDkW6bx/phi3550-knowledge-position-paper-2-pdf)
-- [Meaning Within Philosophy of Language](https://dochub.com/graysonboyette929/B5LgrGvR0mZ6xQvK9MYq6j/phi3550-position-paper-3-pdf?pg=2)
-- [Metaphysics of Christianity vs. Hinduism](https://dochub.com/graysonboyette929/1XEpyxzwNxk6ZPBKQZGd38/death-to-self-phi2100-final-essay-docx)
-- [Christian Stance on Epicurean Materialism](https://dochub.com/graysonboyette929/1XEpyxzwNxk6ZPBKQZGd38/death-to-self-phi2100-final-essay-docx)
-- [Rick Astley's "Never Gonna Give You Up" Compared and Contrasted With Arthur Miller's "The Crucible"](https://mail.google.com/mail/u/0?ui=2&ik=2c1005c2bd&attid=0.1&permmsgid=msg-f:1842437042394692930&th=1991a6ba78f4fd42&view=att&zw&disp=inline)
-- [Social Justice, Birth Control, Climate Change, Racism, Homosexuality, Oh My!](https://dochub.com/m/shared-document/graysonboyette929/bDa8NX3RdWv5vobw2zA6Ey/eth5100-sp-2024-position-statement-final-docx?dt=udSvteYU6taaeNzzm_Eo)
-- [Old Testament Narrative: Creation to Exile](https://dochub.com/m/shared-document/graysonboyette929/gDqeQZ6VzZNMNXzV0jLO4Y/ots-creation-to-exile-retelling-docx?dt=41PRvFjoxysayVLghmMg)
+- #### Theology/ Biblical Studies: ####
+- >[Salvation of The Unevangelized: A Molinist Approach](https://github.com/gboyette929929/Papers/blob/main/PHI4600%20Final%20Essay.docx)
+- >[Old Testament Narrative: Creation to Exile](https://github.com/gboyette929929/Papers/blob/main/OTS%20Creation%20to%20Exile%20Retelling.pdf)
+- >[Doctrine of Salvation](https://github.com/gboyette929929/Papers/blob/main/Doctrine%20of%20Salvation.pdf)
+- >[Doctrine of The End Times](https://github.com/gboyette929929/Papers/blob/main/Doctrine%20of%20the%20end%20times.pdf)
+  >
+- #### Philosophy: ####
+- >[Correspondance Theory of Truth](https://github.com/gboyette929929/Papers/blob/main/PHI3550%20Knowledge%20Position%20Paper%20%20(1).pdf)
+- >[Belief in God as Basic: Modern Foundationalism](https://github.com/gboyette929929/Papers/blob/main/PHI3550%20Knowledge%20Position%20Paper%20%20(2).pdf)
+- >[Meaning Within Philosophy of Language](https://github.com/gboyette929929/Papers/blob/main/PHI3550%20Position%20Paper%203.pdf)
+- >[Metaphysics of Christianity vs. Hinduism](https://github.com/gboyette929929/Papers/blob/main/Death%20to%20Self%20(PHI2100%20Final%20Essay).pdf)
+- >[Christian Stance on Epicurean Materialism](https://github.com/gboyette929929/Papers/blob/main/GB2%20Nature%20of%20Things%20Final%20Essay%20.pdf)
+  >
+- #### Ethics: ####
+- >[Social Justice, Birth Control, Climate Change, Racism, Homosexuality, Oh My!](https://github.com/gboyette929929/Papers/blob/main/ETH5100-SP.2024%20Position%20Statement%20Final.pdf)
+- >[Christian Ethics of Substance Use: Psychedelic Mushrooms](https://github.com/gboyette929929/Papers/blob/main/PHI2500%20Final%20Research%20Essay.pdf)
+  >
+- #### Other: ####
+- >[Rick Astley's "Never Gonna Give You Up" Compared and Contrasted With Arthur Miller's "The Crucible"](https://github.com/gboyette929929/Papers/blob/main/Research%20Paper%20ENG1120.pdf)
