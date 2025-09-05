@@ -15,10 +15,13 @@ I hope this was useful information in getting to know the depths of my soul!
 
 ## Other Unpublished Publications! ##
 - #### Theology/ Biblical Studies: ####
->>[Salvation of The Unevangelized: A Molinist Approach](https://github.com/gboyette929929/Papers/blob/main/PHI4600%20Final%20Essay.docx)
->>[Old Testament Narrative: Creation to Exile](https://github.com/gboyette929929/Papers/blob/main/OTS%20Creation%20to%20Exile%20Retelling.pdf)
->>[Doctrine of Salvation](https://github.com/gboyette929929/Papers/blob/main/Doctrine%20of%20Salvation.pdf)
->>[Doctrine of The End Times](https://github.com/gboyette929929/Papers/blob/main/Doctrine%20of%20the%20end%20times.pdf)
+>[Salvation of The Unevangelized: A Molinist Approach](https://github.com/gboyette929929/Papers/blob/main/PHI4600%20Final%20Essay.docx)
+>
+>[Old Testament Narrative: Creation to Exile](https://github.com/gboyette929929/Papers/blob/main/OTS%20Creation%20to%20Exile%20Retelling.pdf)
+>
+>[Doctrine of Salvation](https://github.com/gboyette929929/Papers/blob/main/Doctrine%20of%20Salvation.pdf)
+>
+>[Doctrine of The End Times](https://github.com/gboyette929929/Papers/blob/main/Doctrine%20of%20the%20end%20times.pdf)
   >
 - #### Philosophy: ####
 - >[Correspondance Theory of Truth](https://github.com/gboyette929929/Papers/blob/main/PHI3550%20Knowledge%20Position%20Paper%20%20(1).pdf)
