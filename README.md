@@ -14,7 +14,7 @@ If you want to learn more about some of my beliefs or topics I am currently stud
 I hope this information is useful in getting to know the depths of my soul!
 
 ## Miscellaneous Unpublished Publications! ##
-#### Theology/ Biblical Studies:
+##### Theology/ Biblical Studies:
 - [Salvation of The Unevangelized: A Molinist Approach](https://github.com/gboyette929929/Papers/blob/main/PHI4600%20Final%20Essay.docx)
 - [Old Testament Narrative: Creation to Exile](https://github.com/gboyette929929/Papers/blob/main/OTS%20Creation%20to%20Exile%20Retelling.pdf)
 - [Doctrine of Salvation](https://github.com/gboyette929929/Papers/blob/main/Doctrine%20of%20Salvation.pdf)
@@ -26,7 +26,7 @@ I hope this information is useful in getting to know the depths of my soul!
 - [Meaning Within Philosophy of Language](https://github.com/gboyette929929/Papers/blob/main/PHI3550%20Position%20Paper%203.pdf)
 - [Metaphysics of Christianity vs. Hinduism](https://github.com/gboyette929929/Papers/blob/main/Death%20to%20Self%20(PHI2100%20Final%20Essay).pdf)
 - [Christian Stance on Epicurean Materialism](https://github.com/gboyette929929/Papers/blob/main/GB2%20Nature%20of%20Things%20Final%20Essay%20.pdf)
-&nbsp; 
+<!-- break -->
 #### Ethics:
 - [Social Justice, Birth Control, Climate Change, Racism, Homosexuality, Oh My!](https://github.com/gboyette929929/Papers/blob/main/ETH5100-SP.2024%20Position%20Statement%20Final.pdf)
 - [Christian Ethics of Substance Use: Psychedelic Mushrooms](https://github.com/gboyette929929/Papers/blob/main/PHI2500%20Final%20Research%20Essay.pdf)
