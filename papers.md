@@ -33,7 +33,7 @@
   <li><a href="https://github.com/gboyette929929/Papers/blob/main/PHI2500%20Final%20Research%20Essay.pdf">Christian Ethics of Substance Use: Psychedelic Mushrooms</a></li>
 </ul>
 
-</details style="margin-bottom: 20px;">
+</details>
 
 <details style="margin-bottom: 20px;">
 <summary><strong><span style="font-size: 20px;">⁉️ Other:</span></strong></summary>
