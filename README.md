@@ -43,5 +43,3 @@ I hope this information is useful in getting to know the depths of my soul!
 #### Other:
 
 - [Rick Astley's "Never Gonna Give You Up" Compared and Contrasted With Arthur Miller's "The Crucible"](https://github.com/gboyette929929/Papers/blob/main/Research%20Paper%20ENG1120.pdf)
-
-![Queen Boots](https://raw.githubusercontent.com/Grayson-Boyette/GB/d9d9bc481b53950fb0e00f1a03c9ed5c03241378/IMG_1252.jpg)
