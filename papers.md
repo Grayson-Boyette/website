@@ -1,4 +1,4 @@
-# Here is a selection of my miscellaneous writings!
+# Click on the topics below to see a selection of my miscellaneous writings!
 
 <details style="margin-bottom: 20px;">
 <summary><strong><span style="font-size: 20px;">📚 Theology and Biblical Studies:</span></strong></summary>
