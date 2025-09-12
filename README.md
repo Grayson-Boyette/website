@@ -11,14 +11,14 @@ Here is some information about myself!
 3. I love coffee.  
 4. I love chess.  
 5. I love music.
-6. I love [Boots](./boots.md) 
+6. I love [Boots.](./boots.md) 
 
 If you want to learn more about some of my beliefs or topics I am currently studying, take a gander at the content below!  
 I hope this information is useful in getting to know the depths of my soul!
 
 ---
 
-## Miscellaneous Unpublished Publications!
+## [Miscellaneous Unpublished Publications!](./papers.md)
 
 #### Theology / Biblical Studies:
 
