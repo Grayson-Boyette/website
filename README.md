@@ -1,6 +1,8 @@
 # Preliminary Information Regarding The Life of Yours Truly :)
 
-Go listen to my podcast, ["I Think, Therefore It Is"](https://open.spotify.com/show/2kwec9LNhM6vI7ctVi0YOJ) 
+### Go listen to my podcast, ["I Think, Therefore It Is"](https://open.spotify.com/show/2kwec9LNhM6vI7ctVi0YOJ) 
+>
+##### If you want to submit a topic for me to discuss or want to be on an episode, [click here!](https://docs.google.com/forms/d/e/1FAIpQLScxWtogdATL5RWNn67yeHVaWlXV2Yf7XKjFMZZHsyhKNo2apg/viewform?usp=sharing&ouid=116127975936704696020)
 ---
 
 Practicing the ins and outs of GitHub to become an expert of all things on this side of eternity. 
