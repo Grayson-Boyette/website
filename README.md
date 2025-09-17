@@ -1,5 +1,8 @@
 # Preliminary Information Regarding The Life of Yours Truly :)
 
+Go listen to my podcast, ["I Think, Therefore It Is"](https://open.spotify.com/show/2kwec9LNhM6vI7ctVi0YOJ) 
+---
+
 Practicing the ins and outs of GitHub to become an expert of all things on this side of eternity. 
 
 ## This is practicing utilizing the fullness of *GitHub's* features!
